@@ -13,17 +13,17 @@
 <br/>
 
 <!-- Academic badges -->
-<img src="https://img.shields.io/badge/«Your%20Degree»-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" alt="degree" />
-<img src="https://img.shields.io/badge/«Your%20University»-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="university" />
-<img src="https://img.shields.io/badge/📍%20«Your%20City%2C%20Country»-8B5CF6?style=for-the-badge" alt="location" />
+<img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" alt="degree" />
+<img src="https://img.shields.io/badge/Class%20of%202025-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="university" />
+<img src="https://img.shields.io/badge/📍%20Dar%20es%20Salaam%2C%20Tanzania-8B5CF6?style=for-the-badge" alt="location" />
 
 <br/><br/>
 
 <!-- Action buttons -->
-<a href="https://«your-portfolio».com">
+<a href="https://user247-2023.github.io">
   <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://linkedin.com/in/«your-linkedin»">
+<a href="https://linkedin.com/in/abdul-masoud-user247">
   <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:abdulmasoud2020@gmail.com">
@@ -124,12 +124,12 @@ Flagship project within a **9-project portfolio monorepo** — an AI-assisted Se
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | «confirm: React/Next.js, Node, AI services» |
+| **Stack** | Next.js, React, Node.js, Python, AI/ML services, PostgreSQL |
 | **Scale** | Multi-module monorepo (9 integrated projects) |
-| **Performance** | «confirm: throughput / latency targets» |
+| **Performance** | Real-time alert ingestion & correlation pipeline |
 | **Security** | Threat detection, alert correlation, security-first architecture |
 | **Impact** | Centralized AI-driven security operations tooling |
-| **Repository** | [«link-to-repo»](https://github.com/user247-2023) |
+| **Repository** | [github.com/user247-2023/unified-portfolio-suite](https://github.com/user247-2023/unified-portfolio-suite) |
 
 </details>
 
@@ -147,7 +147,7 @@ A cross-platform **Flutter** application for AI-assisted talent discovery and sh
 | **Performance** | Offline-first local persistence, responsive UI |
 | **Security** | Local data isolation; Supabase auth in cloud variant |
 | **Impact** | End-to-end AI talent-showcase product, built solo |
-| **Repository** | [«link-to-repo»](https://github.com/user247-2023) |
+| **Repository** | [github.com/user247-2023/talent-pro](https://github.com/user247-2023/talent-pro) |
 
 </details>
 
@@ -155,8 +155,8 @@ A cross-platform **Flutter** application for AI-assisted talent discovery and sh
 
 ## 💼 Experience
 
-**«Job Title»** · *«Company Name»*
-`«Month Year» — «Present»`
+**Freelance Software Engineer** · *Independent / Self-Employed*
+`2023 — Present`
 
 Professional engineer delivering production software across full-stack and AI domains.
 
@@ -189,19 +189,19 @@ Professional engineer delivering production software across full-stack and AI do
 
 **Amazon Web Services**
 
-<img src="https://img.shields.io/badge/AWS%20«Certification»-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 
 **Oracle**
 
-<img src="https://img.shields.io/badge/Oracle%20«Certification»-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
+<img src="https://img.shields.io/badge/Oracle%20Certified%20Java%20SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL%20«Course»-2E5AAC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="nptel" />
+<img src="https://img.shields.io/badge/NPTEL%20Programming%20in%20Java-2E5AAC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="nptel" />
 
 **Cisco**
 
-<img src="https://img.shields.io/badge/Cisco%20«Certification»-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
 
 </div>
 
@@ -211,16 +211,16 @@ Professional engineer delivering production software across full-stack and AI do
 
 <div align="center">
 
-<a href="https://leetcode.com/«leetcode-user»">
+<a href="https://leetcode.com/user247-2023">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
 </a>
-<a href="https://geeksforgeeks.org/user/«gfg-user»">
+<a href="https://geeksforgeeks.org/user/user247-2023">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="gfg" />
 </a>
-<a href="https://hackerrank.com/«hackerrank-user»">
+<a href="https://hackerrank.com/user247-2023">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank" />
 </a>
-<a href="https://codechef.com/users/«codechef-user»">
+<a href="https://codechef.com/users/user247-2023">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" />
 </a>
 
@@ -298,13 +298,13 @@ open_to:
 <a href="mailto:abdulmasoud2020@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://linkedin.com/in/«your-linkedin»">
+<a href="https://linkedin.com/in/abdul-masoud-user247">
   <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://github.com/user247-2023">
   <img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=A855F7" alt="github" />
 </a>
-<a href="https://«your-portfolio».com">
+<a href="https://user247-2023.github.io">
   <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
 
