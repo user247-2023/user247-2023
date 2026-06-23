@@ -245,7 +245,7 @@ Professional engineer delivering production software across full-stack and AI do
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=user247-2023&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-trophies.vercel.app/?username=user247-2023&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
