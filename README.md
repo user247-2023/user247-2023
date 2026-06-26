@@ -133,24 +133,6 @@ Flagship project within a **9-project portfolio monorepo** — an AI-assisted Se
 
 </details>
 
-<details>
-<summary><b>🎯 TalentPro — AI Talent Showcase</b></summary>
-
-<br/>
-
-A cross-platform **Flutter** application for AI-assisted talent discovery and showcasing, with intelligent matching and a polished mobile-first experience.
-
-| Aspect | Detail |
-| :--- | :--- |
-| **Stack** | Flutter, Dart, SQLite (offline-first); Supabase variant (SOSY PRO) |
-| **Scale** | Full mobile app — profiles, media, AI matching |
-| **Performance** | Offline-first local persistence, responsive UI |
-| **Security** | Local data isolation; Supabase auth in cloud variant |
-| **Impact** | End-to-end AI talent-showcase product, built solo |
-| **Repository** | [github.com/user247-2023/talent-pro](https://github.com/user247-2023/talent-pro) |
-
-</details>
-
 ---
 
 ## 💼 Experience
